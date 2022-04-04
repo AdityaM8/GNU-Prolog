@@ -1,0 +1,1 @@
+calculate :- X is 5 mod 2 , write('5 mod 2=') , write(X) , nl , Y is 5**2 , write('5power2=') , write(Y) , nl.
